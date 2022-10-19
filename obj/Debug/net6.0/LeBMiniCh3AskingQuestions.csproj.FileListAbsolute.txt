@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/bin/Debug/net6.0/LeBMiniCh3AskingQuestions
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/bin/Debug/net6.0/LeBMiniCh3AskingQuestions.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/bin/Debug/net6.0/LeBMiniCh3AskingQuestions.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/bin/Debug/net6.0/LeBMiniCh3AskingQuestions.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/bin/Debug/net6.0/LeBMiniCh3AskingQuestions.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/refint/LeBMiniCh3AskingQuestions.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/LeBMiniCh3AskingQuestions.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh3AskingQuestions/obj/Debug/net6.0/ref/LeBMiniCh3AskingQuestions.dll
